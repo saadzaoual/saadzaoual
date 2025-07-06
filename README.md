@@ -2,6 +2,9 @@
 <p align="center">
   🧠 1337 Benguerir Student • 🛠️ Future software engineer
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Nova's+World!;C+Programmer+at+1337+Benguerir;Loves+clean+code+and+Linux&center=true&width=500&height=45">
+</p>
 
 ---
 
