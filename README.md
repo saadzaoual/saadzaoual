@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nova 👋</h1>
+<h1 align="center">Hi, I'm Saad Zaoual 👋</h1>
 <p align="center">
   🧠 1337 Benguerir Student • 🛠️ Future software engineer
 </p>
