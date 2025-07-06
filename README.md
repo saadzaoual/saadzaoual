@@ -1,54 +1,46 @@
 <h1 align="center">Hi, I'm Nova 👋</h1>
 <p align="center">
-  🧠 C Programmer • 🎥 Videographer • 💻 1337 Benguerir Student • 🚀 Future Full-Stack Engineer
+  🧠 1337 Benguerir Student • 💻 C Programmer • 🛠️ Future Full-Stack Developer
 </p>
 
 ---
 
-### 💡 About Me
+### 👨‍💻 About Me
 
-I'm a creative technologist who blends low-level programming with visual storytelling.  
-Currently grinding through the 42 Network curriculum (at 1337 BG), working on projects like `Minishell`, `Libft`, and more.  
-Outside of code, I'm a videographer and editor, creating cinematic content with my Sony A7S3. I bring **precision**, **aesthetic**, and **adaptability** to every project I take on.
-
----
-
-### 🛠 Tech Stack
-
-- 💻 **Languages**: C, Bash, Python (basic), JavaScript (learning)
-- 🛠️ **Tools**: Git, Make, GCC, Neovim, Adobe Premiere Pro, After Effects
-- 🎮 **Game Dev**: Unity (2D), GitHub collaboration
-- 🌐 **Currently learning**: React, Node.js, Linux system internals, Cybersecurity
+I'm a self-driven programmer currently studying at **1337 Benguerir** (42 Network).  
+Passionate about low-level development, problem solving, and building powerful command-line tools.  
+I thrive in environments that push my limits and help me grow through real-world challenges.
 
 ---
 
-### 🔥 Projects I'm Proud Of
+### 🔧 Tech Stack
 
-- 🐚 [`minishell`](https://github.com/saadzaoual/minishell): Custom Unix shell written in C — built with pipe handling, redirections, heredoc, and builtins.
-- 🔧 [`libft`](https://github.com/saadzaoual/libft): My implementation of essential C standard functions from scratch.
-- 🎮 `Medieval 2D RPG`: A Unity-based open-world game in progress with a friend, aiming for a Drakantos-like quality.
-
----
-
-### 🎬 Video & Creativity
-
-As a freelance filmmaker and editor, I:
-- Use **Sony A7S3** for crisp visuals
-- Master color grading, lighting, and storytelling
-- Deliver cinematic reels and promo content for clubs & startups
-
-🖼 IG / TikTok: [@nova4creation](https://instagram.com/nova4creation)
+- 💻 **Languages**: C, Shell Script, Python (basic), JavaScript (learning)
+- 🧰 **Tools**: Git & GitHub, Make, GCC, Valgrind, Neovim, VS Code
+- 🐧 **OS & Environments**: Linux (Ubuntu), macOS, Shell (Bash/Zsh)
+- 🌱 **Currently learning**: Web Development ,Devops ,game dev
 
 ---
 
-### 📫 Let's Connect!
+### 🚀 Projects & Challenges
 
-- 💼 Open for freelance & internship opportunities
-- 📬 Reach me at: saadzaoual[at]gmail.com
-- 🌍 Portfolio: *(add your site or Notion if available)*
 
 ---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadzaoual&show_icons=true&theme=radical" alt="Nova's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadzaoual&show_icons=true&theme=tokyonight" alt="Nova's GitHub stats" />
 </p>
+
+---
+
+### 📬 Contact
+
+- 🔗 LinkedIn: *(add your LinkedIn link here)*
+- 📫 Email: saadzaoual[at]gmail.com
+
+---
+
+> "Learning by doing — that's how we build skill, one line at a time."
+
