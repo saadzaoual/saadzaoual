@@ -39,10 +39,9 @@ I thrive in environments that push my limits and help me grow through real-world
 </p>
 <hr/>
 
-### 📬 Contact
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/saadzaoual/
-- 📫 Email: saadzaoual@gmail.com
+### 💼 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saadzaoual-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saadzaoual/)
+[![Email](https://img.shields.io/badge/Email-saadzaoual%40gmail.com-informational?style=flat&logo=gmail)](mailto:saadzaoual@gmail.com)
 
 ---
 
