@@ -23,17 +23,7 @@ I thrive in environments that push my limits and help me grow through real-world
 - 🐧 **OS & Environments**: Linux (Ubuntu), macOS, Shell (Bash/Zsh)
 - 🌱 **Currently learning**: Web Development ,Devops ,game dev
 ---
-
 ### 🚀 Projects & Challenges
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadzaoual&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadzaoual&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaoual&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
 ---
 ### 📈 GitHub Stats
 <p align="center">
@@ -41,9 +31,12 @@ I thrive in environments that push my limits and help me grow through real-world
   <img src="https://badge.mediaplus.ma/levi/szaoual" alt="Nova's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadzaoual&show_icons=true&theme=tokyonight" alt="Nova's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadzaoual&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadzaoual&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaoual&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 ---
 
 ### 📬 Contact
