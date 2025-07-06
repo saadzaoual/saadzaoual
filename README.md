@@ -37,7 +37,8 @@ I thrive in environments that push my limits and help me grow through real-world
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaoual&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
----
+<hr/>
+
 ### 📬 Contact
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/saadzaoual/
