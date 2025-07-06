@@ -27,9 +27,9 @@ I thrive in environments that push my limits and help me grow through real-world
 
 ---
 ### 📈 GitHub Stats
-
-[![szaoual's 42 stats](https://badge.mediaplus.ma/levi/szaoual)](https://github.com/oakoudad/badge42)
-
+<p align="center">
+  [![szaoual's 42 stats](https://badge.mediaplus.ma/levi/szaoual)](https://github.com/oakoudad/badge42)
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saadzaoual&show_icons=true&theme=tokyonight" alt="Nova's GitHub stats" />
 </p>
