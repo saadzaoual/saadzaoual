@@ -26,7 +26,7 @@ I thrive in environments that push my limits and help me grow through real-world
 
 
 ---
-[![<szaoual>'s 42 stats](https://badge.mediaplus.ma/darkblue/<szaoual>)](https://github.com/oakoudad/badge42)
+[![szaoual's 42 stats](https://badge.mediaplus.ma/levi/szaoual)](https://github.com/oakoudad/badge42)
 ---
 ### 📈 GitHub Stats
 
